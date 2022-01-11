@@ -1,0 +1,3 @@
+1. Item pictures changing button
+2. Submit review options to insert pictures
+3. Items you may like
